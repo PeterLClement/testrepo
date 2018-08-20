@@ -38,3 +38,4 @@ all of the libraries you want to use.
 
 For more details about ProjectTemplate, see http://projecttemplate.net
 # testrepo
+adding a line
